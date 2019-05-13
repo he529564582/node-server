@@ -6,4 +6,4 @@ var carousel = {
     }
 }
 
-module.exports = carousel
+module.exports = carousel  
