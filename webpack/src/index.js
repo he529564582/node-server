@@ -15,12 +15,11 @@
   btn.onclick = printMe;
   element.appendChild(btn);
 
-+ element.classList.add('hello');
+ element.classList.add('hello');
   var myIcon = new Image();
   myIcon.src = Icon;
   element.appendChild(myIcon);
   console.log(Data);
-
   return element;
 }
 
