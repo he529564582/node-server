@@ -4,4 +4,4 @@ import {carousel} from './components/carousel';
 
 carousel.init()
 
-$('body').append($('<div>hello</div>'))
+$('body').append($(`<div>hello</div>`))
